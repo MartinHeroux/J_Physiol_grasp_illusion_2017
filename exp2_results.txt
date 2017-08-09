@@ -1,0 +1,121 @@
+Male            13
+Female          17
+Right handed    28
+Left handed     2
+age             mean = 29.7   SD = 4.4   min = 23   max = 39
+
+=======
+SPACING
+=======
+
+         cold_start_sp  count = 30   mean =  4.8   SD = 4.0   95% MoE = 1.41   95%CI =  3.35 to  6.18  min =  0   max = 17
+           cold_end_sp  count = 30   mean =  3.6   SD = 3.6   95% MoE = 1.29   95%CI =  2.34 to  4.92  min = -2   max = 13
+          hot_start_sp  count = 30   mean =  3.8   SD = 3.9   95% MoE = 1.40   95%CI =  2.36 to  5.17  min = -5   max = 12
+            hot_end_sp  count = 30   mean =  3.6   SD = 3.3   95% MoE = 1.20   95%CI =  2.44 to  4.83  min = -1   max = 12
+         temp_start_sp  count = 30   mean =  3.9   SD = 3.8   95% MoE = 1.36   95%CI =  2.54 to  5.26  min = -4   max = 13
+           temp_end_sp  count = 30   mean =  3.4   SD = 3.1   95% MoE = 1.10   95%CI =  2.26 to  4.47  min = -2   max = 12
+        rough_start_sp  count = 30   mean =  3.7   SD = 3.2   95% MoE = 1.15   95%CI =  2.55 to  4.85  min = -3   max = 13
+          rough_end_sp  count = 30   mean =  3.1   SD = 2.8   95% MoE = 1.01   95%CI =  2.05 to  4.08  min = -3   max =  8
+       smooth_start_sp  count = 30   mean =  3.3   SD = 3.6   95% MoE = 1.27   95%CI =  2.00 to  4.54  min = -4   max = 14
+         smooth_end_sp  count = 30   mean =  3.3   SD = 4.2   95% MoE = 1.50   95%CI =  1.76 to  4.77  min = -3   max = 20
+         text_start_sp  count = 30   mean =  4.3   SD = 3.6   95% MoE = 1.27   95%CI =  3.03 to  5.57  min =  0   max = 14
+           text_end_sp  count = 30   mean =  3.0   SD = 3.3   95% MoE = 1.18   95%CI =  1.86 to  4.21  min = -5   max = 10
+          odd_start_sp  count = 30   mean =  4.3   SD = 3.8   95% MoE = 1.35   95%CI =  2.92 to  5.61  min = -4   max = 14
+            odd_end_sp  count = 30   mean =  3.9   SD = 4.1   95% MoE = 1.46   95%CI =  2.47 to  5.40  min = -4   max = 16
+       square_start_sp  count = 30   mean =  4.3   SD = 3.0   95% MoE = 1.07   95%CI =  3.26 to  5.41  min =  0   max = 10
+         square_end_sp  count = 30   mean =  3.4   SD = 3.2   95% MoE = 1.13   95%CI =  2.30 to  4.56  min = -5   max = 10
+        shape_start_sp  count = 30   mean =  3.9   SD = 3.4   95% MoE = 1.23   95%CI =  2.64 to  5.10  min =  0   max = 14
+          shape_end_sp  count = 30   mean =  3.2   SD = 3.1   95% MoE = 1.12   95%CI =  2.05 to  4.29  min =  0   max = 11
+         firm_start_sp  count = 30   mean =  3.2   SD = 2.5   95% MoE = 0.88   95%CI =  2.35 to  4.11  min = -2   max =  8
+           firm_end_sp  count = 30   mean =  2.9   SD = 2.7   95% MoE = 0.98   95%CI =  1.96 to  3.91  min =  0   max =  9
+         soft_start_sp  count = 30   mean =  3.4   SD = 3.4   95% MoE = 1.22   95%CI =  2.14 to  4.59  min = -4   max = 13
+           soft_end_sp  count = 30   mean =  3.1   SD = 3.1   95% MoE = 1.11   95%CI =  2.02 to  4.25  min = -2   max = 13
+     firmness_start_sp  count = 30   mean =  3.7   SD = 3.0   95% MoE = 1.08   95%CI =  2.62 to  4.78  min =  0   max = 12
+       firmness_end_sp  count = 30   mean =  2.7   SD = 2.7   95% MoE = 0.97   95%CI =  1.73 to  3.67  min =  0   max =  9
+    cold_start_diff_sp  count = 30   mean =  0.9   SD = 2.5   95% MoE = 0.89   95%CI = -0.02 to  1.76  min = -4   max =  9
+     hot_start_diff_sp  count = 30   mean = -0.1   SD = 3.0   95% MoE = 1.07   95%CI = -1.21 to  0.94  min = -8   max =  6
+      cold_end_diff_sp  count = 30   mean =  0.3   SD = 2.1   95% MoE = 0.75   95%CI = -0.48 to  1.02  min = -5   max =  7
+       hot_end_diff_sp  count = 30   mean =  0.3   SD = 2.4   95% MoE = 0.85   95%CI = -0.58 to  1.11  min = -4   max =  8
+     cold_time_diff_sp  count = 30   mean = -0.6   SD = 3.1   95% MoE = 1.11   95%CI = -1.71 to  0.51  min = -9   max =  6
+      hot_time_diff_sp  count = 30   mean =  0.4   SD = 2.9   95% MoE = 1.04   95%CI = -0.64 to  1.44  min = -4   max =  8
+  smooth_start_diff_sp  count = 30   mean = -1.0   SD = 2.5   95% MoE = 0.88   95%CI = -1.92 to -0.15  min = -9   max =  2
+   rough_start_diff_sp  count = 30   mean = -0.6   SD = 2.3   95% MoE = 0.83   95%CI = -1.43 to  0.23  min = -6   max =  3
+    smooth_end_diff_sp  count = 30   mean =  0.2   SD = 3.2   95% MoE = 1.13   95%CI = -0.90 to  1.37  min = -5   max = 14
+     rough_end_diff_sp  count = 30   mean =  0.0   SD = 2.7   95% MoE = 0.97   95%CI = -0.94 to  1.01  min = -5   max = 10
+    rough_time_diff_sp  count = 30   mean =  0.6   SD = 2.8   95% MoE = 1.01   95%CI = -0.37 to  1.64  min = -6   max = 11
+   smooth_time_diff_sp  count = 30   mean =  1.3   SD = 3.7   95% MoE = 1.32   95%CI = -0.05 to  2.59  min = -3   max = 14
+  square_start_diff_sp  count = 30   mean =  0.5   SD = 1.7   95% MoE = 0.59   95%CI = -0.13 to  1.06  min = -4   max =  4
+     odd_start_diff_sp  count = 30   mean =  0.4   SD = 1.7   95% MoE = 0.60   95%CI = -0.20 to  1.00  min = -4   max =  5
+    square_end_diff_sp  count = 30   mean =  0.3   SD = 2.7   95% MoE = 0.96   95%CI = -0.70 to  1.23  min = -8   max =  8
+       odd_end_diff_sp  count = 30   mean =  0.8   SD = 2.3   95% MoE = 0.81   95%CI = -0.04 to  1.57  min = -5   max =  7
+      odd_time_diff_sp  count = 30   mean =  0.4   SD = 2.0   95% MoE = 0.72   95%CI = -0.36 to  1.09  min = -3   max =  5
+   square_time_diff_sp  count = 30   mean = -0.2   SD = 2.9   95% MoE = 1.03   95%CI = -1.23 to  0.83  min = -9   max =  8
+    firm_start_diff_sp  count = 30   mean = -0.5   SD = 2.5   95% MoE = 0.90   95%CI = -1.37 to  0.44  min = -8   max =  4
+    soft_start_diff_sp  count = 30   mean = -0.3   SD = 2.6   95% MoE = 0.92   95%CI = -1.26 to  0.59  min = -8   max =  3
+      firm_end_diff_sp  count = 30   mean =  0.2   SD = 1.1   95% MoE = 0.38   95%CI = -0.15 to  0.62  min = -2   max =  3
+      soft_end_diff_sp  count = 30   mean =  0.4   SD = 1.6   95% MoE = 0.56   95%CI = -0.13 to  0.99  min = -3   max =  4
+     firm_time_diff_sp  count = 30   mean =  0.7   SD = 2.4   95% MoE = 0.86   95%CI = -0.16 to  1.56  min = -4   max =  8
+     soft_time_diff_sp  count = 30   mean =  0.8   SD = 2.4   95% MoE = 0.86   95%CI = -0.09 to  1.63  min = -2   max =  8
+
+=========
+OWNERSHIP
+=========
+
+        cold_start_own  count = 30   mean =  1.9   SD = 1.4   95% MoE = 0.51   95%CI =  1.42 to  2.45   min =  1   max =  7
+          cold_end_own  count = 30   mean =  2.7   SD = 1.7   95% MoE = 0.62   95%CI =  2.08 to  3.32   min =  1   max =  7
+         hot_start_own  count = 30   mean =  3.0   SD = 1.6   95% MoE = 0.58   95%CI =  2.45 to  3.62   min =  1   max =  7
+           hot_end_own  count = 30   mean =  3.3   SD = 1.7   95% MoE = 0.62   95%CI =  2.65 to  3.88   min =  1   max =  7
+        temp_start_own  count = 30   mean =  3.1   SD = 1.9   95% MoE = 0.66   95%CI =  2.47 to  3.80   min =  1   max =  7
+          temp_end_own  count = 30   mean =  3.3   SD = 1.6   95% MoE = 0.59   95%CI =  2.71 to  3.89   min =  1   max =  6
+       rough_start_own  count = 30   mean =  2.2   SD = 1.7   95% MoE = 0.60   95%CI =  1.63 to  2.83   min =  1   max =  7
+         rough_end_own  count = 30   mean =  2.7   SD = 1.7   95% MoE = 0.62   95%CI =  2.05 to  3.29   min =  1   max =  6
+      smooth_start_own  count = 30   mean =  3.0   SD = 1.4   95% MoE = 0.52   95%CI =  2.51 to  3.55   min =  1   max =  6
+        smooth_end_own  count = 30   mean =  3.8   SD = 1.7   95% MoE = 0.62   95%CI =  3.22 to  4.45   min =  1   max =  6
+        text_start_own  count = 30   mean =  3.4   SD = 1.8   95% MoE = 0.63   95%CI =  2.77 to  4.03   min =  1   max =  7
+          text_end_own  count = 30   mean =  3.6   SD = 1.8   95% MoE = 0.63   95%CI =  2.97 to  4.23   min =  1   max =  6
+         odd_start_own  count = 30   mean =  2.0   SD = 1.2   95% MoE = 0.43   95%CI =  1.57 to  2.43   min =  1   max =  5
+           odd_end_own  count = 30   mean =  2.7   SD = 1.6   95% MoE = 0.59   95%CI =  2.11 to  3.29   min =  1   max =  7
+      square_start_own  count = 30   mean =  2.1   SD = 1.2   95% MoE = 0.41   95%CI =  1.69 to  2.51   min =  1   max =  5
+        square_end_own  count = 30   mean =  2.6   SD = 1.5   95% MoE = 0.54   95%CI =  2.10 to  3.17   min =  1   max =  6
+       shape_start_own  count = 30   mean =  3.2   SD = 1.7   95% MoE = 0.62   95%CI =  2.58 to  3.82   min =  1   max =  7
+         shape_end_own  count = 30   mean =  3.8   SD = 1.6   95% MoE = 0.57   95%CI =  3.23 to  4.37   min =  1   max =  7
+        firm_start_own  count = 30   mean =  3.3   SD = 1.9   95% MoE = 0.68   95%CI =  2.65 to  4.01   min =  1   max =  7
+          firm_end_own  count = 30   mean =  3.7   SD = 1.8   95% MoE = 0.64   95%CI =  3.09 to  4.38   min =  1   max =  7
+        soft_start_own  count = 30   mean =  2.9   SD = 1.6   95% MoE = 0.58   95%CI =  2.35 to  3.51   min =  1   max =  6
+          soft_end_own  count = 30   mean =  3.6   SD = 1.8   95% MoE = 0.64   95%CI =  2.93 to  4.20   min =  1   max =  7
+    firmness_start_own  count = 30   mean =  3.4   SD = 1.8   95% MoE = 0.65   95%CI =  2.71 to  4.02   min =  1   max =  7
+      firmness_end_own  count = 30   mean =  3.8   SD = 1.8   95% MoE = 0.65   95%CI =  3.18 to  4.48   min =  1   max =  7
+   cold_start_diff_own  count = 30   mean = -1.2   SD = 1.9   95% MoE = 0.68   95%CI = -1.88 to -0.52   min = -6   max =  2
+    hot_start_diff_own  count = 30   mean = -0.1   SD = 1.9   95% MoE = 0.68   95%CI = -0.78 to  0.58   min = -4   max =  4
+     cold_end_diff_own  count = 30   mean = -0.6   SD = 2.2   95% MoE = 0.78   95%CI = -1.38 to  0.18   min = -5   max =  3
+      hot_end_diff_own  count = 30   mean = -0.0   SD = 2.0   95% MoE = 0.71   95%CI = -0.75 to  0.68   min = -4   max =  3
+    cold_time_diff_own  count = 30   mean =  0.6   SD = 1.9   95% MoE = 0.67   95%CI = -0.07 to  1.27   min = -3   max =  5
+     hot_time_diff_own  count = 30   mean =  0.1   SD = 1.7   95% MoE = 0.61   95%CI = -0.54 to  0.68   min = -3   max =  4
+ smooth_start_diff_own  count = 30   mean = -0.4   SD = 1.4   95% MoE = 0.48   95%CI = -0.85 to  0.12   min = -4   max =  3
+  rough_start_diff_own  count = 30   mean = -1.2   SD = 1.7   95% MoE = 0.61   95%CI = -1.78 to -0.56   min = -5   max =  3
+   smooth_end_diff_own  count = 30   mean =  0.2   SD = 1.4   95% MoE = 0.49   95%CI = -0.25 to  0.72   min = -2   max =  5
+    rough_end_diff_own  count = 30   mean = -0.9   SD = 2.0   95% MoE = 0.71   95%CI = -1.64 to -0.22   min = -4   max =  5
+   rough_time_diff_own  count = 30   mean =  0.2   SD = 1.3   95% MoE = 0.48   95%CI = -0.24 to  0.71   min = -1   max =  6
+  smooth_time_diff_own  count = 30   mean =  0.6   SD = 1.8   95% MoE = 0.63   95%CI = -0.03 to  1.23   min = -3   max =  6
+ square_start_diff_own  count = 30   mean = -1.1   SD = 1.6   95% MoE = 0.56   95%CI = -1.66 to -0.54   min = -5   max =  2
+    odd_start_diff_own  count = 30   mean = -1.2   SD = 1.5   95% MoE = 0.54   95%CI = -1.74 to -0.66   min = -5   max =  1
+   square_end_diff_own  count = 30   mean = -1.2   SD = 1.6   95% MoE = 0.58   95%CI = -1.75 to -0.59   min = -5   max =  1
+      odd_end_diff_own  count = 30   mean = -1.1   SD = 1.7   95% MoE = 0.61   95%CI = -1.71 to -0.49   min = -5   max =  3
+     odd_time_diff_own  count = 30   mean =  0.1   SD = 1.3   95% MoE = 0.45   95%CI = -0.35 to  0.55   min = -3   max =  3
+  square_time_diff_own  count = 30   mean = -0.1   SD = 1.2   95% MoE = 0.42   95%CI = -0.49 to  0.35   min = -3   max =  2
+   firm_start_diff_own  count = 30   mean = -0.0   SD = 1.8   95% MoE = 0.65   95%CI = -0.69 to  0.62   min = -3   max =  6
+   soft_start_diff_own  count = 30   mean = -0.4   SD = 1.8   95% MoE = 0.66   95%CI = -1.09 to  0.22   min = -4   max =  5
+     firm_end_diff_own  count = 30   mean = -0.1   SD = 0.8   95% MoE = 0.30   95%CI = -0.40 to  0.20   min = -3   max =  2
+     soft_end_diff_own  count = 30   mean = -0.3   SD = 0.9   95% MoE = 0.32   95%CI = -0.59 to  0.06   min = -2   max =  1
+    firm_time_diff_own  count = 30   mean = -0.1   SD = 1.6   95% MoE = 0.56   95%CI = -0.63 to  0.50   min = -5   max =  3
+    soft_time_diff_own  count = 30   mean =  0.2   SD = 1.7   95% MoE = 0.59   95%CI = -0.43 to  0.76   min = -4   max =  4
+
+
+sp       = perceived spacing
+own      = perceived ownership
+95% MoE  = margin of error (one side of error bar) for 95% confidence interval
+diff     = difference, calculated as end - start
+temp     = control trial for temperature
+text     = control trial for texture
+shape    = control trial for shape
+firmness = control trial for firmness

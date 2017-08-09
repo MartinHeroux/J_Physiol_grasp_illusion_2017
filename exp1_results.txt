@@ -1,0 +1,29 @@
+Male            16
+Female          14
+Right handed    29
+Left handed     1
+age             mean = 35.0   SD = 8.2   min = 23   max = 52
+
+=======
+RESULTS
+=======
+
+        no_grasp_start_sp  count = 30  mean = 11.13  SD =  4.38  95% MoE =  1.57   95%CI =  9.56 to 12.70   min =   0   max =  19
+          no_grasp_end_sp  count = 30  mean =  8.70  SD =  3.98  95% MoE =  1.43   95%CI =  7.27 to 10.13   min =  -3   max =  18
+           grasp_start_sp  count = 30  mean =  5.80  SD =  4.28  95% MoE =  1.53   95%CI =  4.27 to  7.33   min =   0   max =  15
+          grasp_start_own  count = 30  mean =  3.07  SD =  1.95  95% MoE =  0.70   95%CI =  2.37 to  3.76   min =   1   max =   6
+             grasp_end_sp  count = 30  mean =  2.67  SD =  3.21  95% MoE =  1.15   95%CI =  1.52 to  3.82   min =  -2   max =  10
+            grasp_end_own  count = 30  mean =  4.30  SD =  1.93  95% MoE =  0.69   95%CI =  3.61 to  4.99   min =   1   max =   7
+         no_grasp_diff_sp  count = 30  mean = -2.43  SD =  2.57  95% MoE =  0.92   95%CI = -3.35 to -1.51   min =  -9   max =   1
+            grasp_diff_sp  count = 30  mean = -3.13  SD =  3.84  95% MoE =  1.37   95%CI = -4.51 to -1.76   min = -11   max =   2
+           grasp_diff_own  count = 30  mean =  1.23  SD =  1.72  95% MoE =  0.61   95%CI =  0.62 to  1.85   min =  -2   max =   5
+  grasp_illusion_start_sp  count = 30  mean = -5.33  SD =  5.54  95% MoE =  1.98   95%CI = -7.32 to -3.35   min = -17   max =   4
+    grasp_illusion_end_sp  count = 30  mean = -6.03  SD =  4.17  95% MoE =  1.49   95%CI = -7.53 to -4.54   min = -14   max =   4
+   grasp_illusion_diff_sp  count = 30  mean = -0.70  SD =  4.87  95% MoE =  1.74   95%CI = -2.44 to  1.04   min = -10   max =  11
+
+
+sp              = perceived spacing
+own             = perceived ownership
+grasp_illusion  = difference between no-grasp and grasp
+95% MoE         = margin of error (one side of error bar) for 95% confidence interval
+diff            = difference, calculated as end - start
